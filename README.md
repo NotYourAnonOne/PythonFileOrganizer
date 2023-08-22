@@ -7,7 +7,7 @@ This is a simple Python script that allows you to organize files in a source dir
 1. Clone this repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/NotYourAnonOne/PythonFileOrganizer.git
    ```
 
 2. Change into the project directory:
