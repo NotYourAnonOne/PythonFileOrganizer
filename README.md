@@ -21,7 +21,7 @@ This is a simple Python script that allows you to organize files in a source dir
 1. Run the script:
 
    ```bash
-   python file_organizer.py
+   python PythonFileOrganizer.py
    ```
 
 2. Enter the source directory path when prompted.
